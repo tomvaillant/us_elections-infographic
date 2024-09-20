@@ -1,4 +1,18 @@
-body {
+@font-face {
+    font-family: 'Baton Turbo';
+    src: url('./fonts/BatonTurboWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Baton Turbo';
+    src: url('./fonts/BatonTurboWeb-Medium.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+  }
+  
+  body {
     margin: 0px;
 }
 
