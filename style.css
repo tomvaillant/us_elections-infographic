@@ -31,3 +31,11 @@ img {
     image-rendering: -webkit-optimize-contrast;
     image-rendering: crisp-edges;
 }
+
+.stroked-text {
+    text-shadow:
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+  }
